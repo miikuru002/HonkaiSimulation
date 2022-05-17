@@ -51,7 +51,7 @@
             // btnAttack
             // 
             this.btnAttack.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAttack.Location = new System.Drawing.Point(537, 134);
+            this.btnAttack.Location = new System.Drawing.Point(666, 171);
             this.btnAttack.Name = "btnAttack";
             this.btnAttack.Size = new System.Drawing.Size(105, 63);
             this.btnAttack.TabIndex = 1;
@@ -63,7 +63,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(56, 326);
+            this.label2.Location = new System.Drawing.Point(11, 373);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(84, 20);
             this.label2.TabIndex = 0;
@@ -72,14 +72,14 @@
             // cmbxValk
             // 
             this.cmbxValk.FormattingEnabled = true;
-            this.cmbxValk.Location = new System.Drawing.Point(146, 323);
+            this.cmbxValk.Location = new System.Drawing.Point(101, 370);
             this.cmbxValk.Name = "cmbxValk";
             this.cmbxValk.Size = new System.Drawing.Size(342, 28);
             this.cmbxValk.TabIndex = 2;
             // 
             // btnSelect
             // 
-            this.btnSelect.Location = new System.Drawing.Point(494, 315);
+            this.btnSelect.Location = new System.Drawing.Point(449, 362);
             this.btnSelect.Name = "btnSelect";
             this.btnSelect.Size = new System.Drawing.Size(112, 43);
             this.btnSelect.TabIndex = 1;
@@ -97,9 +97,9 @@
             // 
             // pcbxAttack
             // 
-            this.pcbxAttack.Location = new System.Drawing.Point(83, 62);
+            this.pcbxAttack.Location = new System.Drawing.Point(16, 48);
             this.pcbxAttack.Name = "pcbxAttack";
-            this.pcbxAttack.Size = new System.Drawing.Size(426, 216);
+            this.pcbxAttack.Size = new System.Drawing.Size(644, 308);
             this.pcbxAttack.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pcbxAttack.TabIndex = 4;
             this.pcbxAttack.TabStop = false;
@@ -108,7 +108,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(665, 398);
+            this.ClientSize = new System.Drawing.Size(783, 410);
             this.Controls.Add(this.pcbxAttack);
             this.Controls.Add(this.lblPlayer);
             this.Controls.Add(this.cmbxValk);
