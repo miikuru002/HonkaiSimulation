@@ -13,3 +13,6 @@
 > - **Estrategia concreta:** Implementa los algoritmos declarados en la Estrategia, en este caso son las clases de cada una de las valquirias.
 > 
 > - **El contexto:** la clase (o función) que utiliza las estrategias.
+
+## Diagrama de clases:
+<img src="Assets/class_diagram.png">
